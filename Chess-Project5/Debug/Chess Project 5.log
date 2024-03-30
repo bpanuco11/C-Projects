@@ -1,0 +1,10 @@
+﻿  Board.cpp
+C:\Users\Brandon\OneDrive\Desktop\C++\Interm C++\Chess Project\Chess Project 5\Board.cpp(26,32): warning C4101: 'quantity': unreferenced local variable
+C:\Users\Brandon\OneDrive\Desktop\C++\Interm C++\Chess Project\Chess Project 5\Board.cpp(248,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Brandon\OneDrive\Desktop\C++\Interm C++\Chess Project\Chess Project 5\Board.cpp(359,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Brandon\OneDrive\Desktop\C++\Interm C++\Chess Project\Chess Project 5\Board.cpp(757,15): warning C4101: 'colSize': unreferenced local variable
+C:\Users\Brandon\OneDrive\Desktop\C++\Interm C++\Chess Project\Chess Project 5\Board.cpp(757,6): warning C4101: 'rowSize': unreferenced local variable
+  Chess Project 5.cpp
+  Generating Code...
+C:\Users\Brandon\OneDrive\Desktop\C++\Interm C++\Chess Project\Chess Project 5\Board.cpp(1092): warning C4715: 'Board::alphaToNum': not all control paths return a value
+  Chess Project 5.vcxproj -> C:\Users\Brandon\OneDrive\Desktop\C++\Interm C++\Chess Project\Chess Project 5\Debug\Chess Project 5.exe
