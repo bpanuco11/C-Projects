@@ -1,9 +1,0 @@
-Guest					Room #
-
-Lisa                                    301
-Julia                                   302
-
-
-
-Rooms Reserved:                          2
-Total Revenue:                    $     2270
